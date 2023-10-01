@@ -8,7 +8,7 @@ function Navbar(){
       <div>
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-        <a href="#" class="navbar-brand">Vulitivibeni<a style={{ fontStyle: 'italic', color: '#D81B60' }}>ART</a></a>
+        <a class="navbar-brand">Vulitivibeni<a style={{ fontStyle: 'italic', color: '#D81B60' }}>ART</a></a>
         <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
