@@ -1,0 +1,11 @@
+.card-zoom {
+    transition: transform 0.3s;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .card-zoom:hover {
+    transform: scale(1.2);
+    z-index: 2;
+  }
+  
